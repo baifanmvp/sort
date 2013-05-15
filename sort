@@ -1,0 +1,8 @@
+Benchmarking & verifying sort funcs on 1000 element array
+insort:             1287 microsec.
+shellsort:           229 microsec.
+heapsort:            212 microsec.
+gamasort:            242 microsec.
+quicksort:           359 microsec.
+quickersort:         144 microsec.
+sedgesort:           123 microsec.
